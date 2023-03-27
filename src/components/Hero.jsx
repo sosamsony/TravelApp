@@ -15,7 +15,7 @@ const Hero = () => {
       <div className="hero-color absolute w-full h-full top-0 left-0 bg-gray-900/70"></div>
       <div className="hero-text absolute top-0 left-0 w-full h-full flex flex-col justify-center text-center text-white p-4">
         <h1>First Class Travel</h1>
-        <h2 className="py-4">Top 1% Locations Worldwide</h2>
+        <h2 className="py-4">Top 5% Locations Worldwide</h2>
         <form
           action=""
           className="bg-gray-100/90 flex justify-between items-center max-w-[700px] mx-auto  border p-1 rounded-md text-black w-full"
