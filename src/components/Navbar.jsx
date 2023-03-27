@@ -20,7 +20,7 @@ const Navbar = () => {
   return (
     <div className="navbar flex justify-between items-center mt-4 px-4 absolute z-10 w-full text-white">
       <div className="logo">
-        <h1>BEACHES</h1>
+        <h1>SOSARENA BEACHES</h1>
       </div>
       <ul className="hidden md:flex lg:flex xl:flex">
         <li>Home</li>
